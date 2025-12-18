@@ -35,3 +35,5 @@ The model was evaluated using Mean Average Precision (mAP) and Recall. Below are
    ```bash
    git clone [https://github.com/your-username/Global-Wheat-Detection.git](https://github.com/your-username/Global-Wheat-Detection.git)
    cd Global-Wheat-Detection
+https://drive.google.com/file/d/1VhUjs5Z4C_c_zYQlbDoAstT5EtZuFVKA/view?usp=sharing
+link of the model
